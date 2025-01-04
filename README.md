@@ -36,6 +36,8 @@ I have reproduced some of the schematics from the Technical Manual in KiCad
 and generated PDF versions.  The original schematics can be hard to read.
 
 * [System 80 Main Board](schematics/System_80_Main_Board/PDF/System_80_Main_Board.pdf)
+* [System 80 Power Supply](schematics/System_80_Power_Supply/PDF/System_80_Power_Supply.pdf)
+* [System 80 Keyboard](schematics/System_80_Keyboard/PDF/System_80_Keyboard.pdf)
 
 ## Adapting the schematic
 
