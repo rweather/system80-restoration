@@ -49,8 +49,10 @@ impossible.  But some things would be easier with modern components:
 
 * Use a single 16K EEPROM instead of separate 4K EPROM's.
 * Use static RAM chips like the 32K 62256 for system memory, instead of
-dynamic RAM.  This removes a lot of complexity in the memory interface.
-* Replace the 5-pin monitor connector with a standard composite video RCA jack.
+dynamic RAM.  This removes a lot of complexity from the memory interface.
+* Replace the 6-way 74LS367 bus transceivers with the 8-way 74LS244 and
+74LS245 instead to reduce the number of transceiver chips.
+* Replace the 5-pin composite video connector with a standard RCA jack.
 
 ## Resources
 
