@@ -6947,7 +6947,7 @@
 		)
 		(uuid "ff551e95-ad9e-4231-9b14-78f4fa001d14")
 	)
-	(text "10.84 MHz"
+	(text "10.64 MHz"
 		(exclude_from_sim no)
 		(at 37.846 124.714 0)
 		(effects
@@ -6978,7 +6978,7 @@
 		)
 		(uuid "6ba20fff-7f80-43af-9054-08f6600678ef")
 	)
-	(text "1.79 MHz"
+	(text "1.77 MHz"
 		(exclude_from_sim no)
 		(at 150.114 129.794 0)
 		(effects

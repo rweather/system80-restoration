@@ -9,7 +9,7 @@ that I got off eBay.
 * Z-80 8-bit CPU, running at 1.79MHz.
 * 12K of ROM containing BASIC.
 * 1K of video RAM for 64 x 16 text mode or 128 x 48 graphics mode.
-* 16K of user program RAM, expandable to 48K using the expansion connector.
+* 16K of user program RAM, expandable to 48K using the expansion module.
 
 ### Initial condition of the unit
 
@@ -21,9 +21,9 @@ Here is a summary of the changes that I made:
 
 * TBD
 
-Costings:
+Costs (in AUD):
 
-* AUD$500 for the System 80 off eBay, plus AUD$60 shipping.
+* $500 for the System 80 off eBay, plus $60 shipping.
 * TBD
 
 And here it is in all of its restored glory:
@@ -36,6 +36,7 @@ I have reproduced some of the schematics from the Technical Manual in KiCad
 and generated PDF versions.  The original schematics can be hard to read.
 
 * [System 80 Main Board](schematics/System_80_Main_Board/PDF/System_80_Main_Board.pdf)
+* [System 80 Video / Cassette Board](schematics/System_80_Video_Cassette/PDF/System_80_Video_Cassette.pdf)
 * [System 80 Power Supply](schematics/System_80_Power_Supply/PDF/System_80_Power_Supply.pdf)
 * [System 80 Keyboard](schematics/System_80_Keyboard/PDF/System_80_Keyboard.pdf)
 
@@ -45,9 +46,12 @@ In theory the KiCad schematics could be modernised and then laid out on
 brand new PCB's.  But a lot of work would be required to add footprints
 and lay everything out.
 
-The components in the System 80 are all bog-standard Z-80, memory, and
-TTL logic chips.  Making a new System 80 from scratch wouldn't be
-impossible.  But some things would be easier with modern components:
+The components in the System 80 are mostly bog-standard Z-80, memory, and
+TTL logic chips that can still be sourced today.  The main exception is
+the character generator ROM, but that could be replaced with a modern EEPROM.
+
+Making a new System 80 from scratch wouldn't be difficult.  But some things
+would be easier with modern components:
 
 * Use a single 16K EEPROM instead of separate 4K EPROM's.
 * Use static RAM chips like the 32K 62256 for system memory, instead of
@@ -55,6 +59,9 @@ dynamic RAM.  This removes a lot of complexity from the memory interface.
 * Replace the 6-way 74LS367 bus transceivers with the 8-way 74LS244 and
 74LS245 instead to reduce the number of transceiver chips.
 * Replace the 5-pin composite video connector with a standard RCA jack.
+* Replace the character generator ROM with a modern EEPROM and include the
+graphics characters in the EEPROM.  This removes the need for a separate
+circuit for rendering the graphics characters.
 
 ## Resources
 

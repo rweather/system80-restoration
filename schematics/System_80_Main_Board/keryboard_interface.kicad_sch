@@ -2353,7 +2353,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 92.71) (xy 125.73 92.71)
+			(xy 121.92 92.71) (xy 125.73 92.71)
 		)
 		(stroke
 			(width 0)
@@ -10508,9 +10508,9 @@
 			)
 		)
 	)
-	(global_label "CAPSLK"
+	(global_label "F1"
 		(shape output)
-		(at 123.19 92.71 180)
+		(at 121.92 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10520,7 +10520,7 @@
 		)
 		(uuid "e8d76b8b-cf85-4d27-885c-f030901661b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.0686 92.71 0)
+			(at 116.6367 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
