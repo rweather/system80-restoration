@@ -15,15 +15,50 @@ that I got off eBay.
 
 TBD
 
+### Chip testing
+
+I pulled all of the chips that were in sockets and ran them through my
+[BackBit Chip Tester Pro V2](https://store.backbit.io/product/chip-tester/).
+
+Main board:
+
+* Z5 - Z-80 CPU - Failed with "BAD ADDR" error.  I already had a replacement.
+* Z10 - E3001 BASIC ROM - Good when tested with chip type "2332".
+* Z11 - E3002 BASIC ROM - Good when tested with chip type "2332".
+* Z12 - E3003 BASIC ROM - Good when tested with chip type "2332".
+* Z27 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z28 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z29 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z30 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z31 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z32 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z33 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+* Z34 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
+
+I wasn't able to test the Dynamic RAM chips because I need an adapter to
+provide the -5V and +12V supply rails, which I do not presently have.
+
+Video board:
+
+* Z17 - MM2114-N 1Kx4 Static RAM - Good.
+* Z18 - MM2114-N 1Kx4 Static RAM - Good.
+* Z25 - 52116 Character Generator ROM - Good when tested with chip type "2532".
+
+The dumped ROM images are in the `ROMs` directory.
+
 ### Conclusion
 
 Here is a summary of the changes that I made:
 
+* Cleaned the case, keyboard, PCB's, etc.
+* Replaced the filter capacitors in the power supply.
+* Replaced the Z-80 CPU with a new one, as the original was broken.
 * TBD
 
 Costs (in AUD):
 
-* $500 for the System 80 off eBay, plus $60 shipping.
+* $500 for the System 80 off eBay.
+* $27 to replace the filter capacitors in the power supply.
 * TBD
 
 And here it is in all of its restored glory:
