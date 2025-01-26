@@ -6999,7 +6999,7 @@
 		)
 		(uuid "922191fa-1eb2-4d3f-ae3c-e880bbfaa07f")
 	)
-	(text "1.79 MHz"
+	(text "1.77 MHz"
 		(exclude_from_sim no)
 		(at 37.846 119.634 0)
 		(effects
