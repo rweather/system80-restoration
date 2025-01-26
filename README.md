@@ -6,18 +6,66 @@ that I got off eBay.
 
 ## Technical specifications
 
-* Z-80 8-bit CPU, running at 1.79MHz.
+* Z-80 8-bit CPU, running at 1.77MHz.
 * 12K of ROM containing BASIC.
 * 1K of video RAM for 64 x 16 text mode or 128 x 48 graphics mode.
-* 16K of user program RAM, expandable to 48K using the expansion module.
+* 16K of user program RAM, expandable to 48K using an expansion module.
 
 ### Initial condition of the unit
 
-TBD
+According to the seller on eBay, the unit had been sitting in a shed for
+30+ years.  The original owner is into boating.  I'm guessing the shed
+was near the seaside from the corrosion inside!
+
+The unit was in pretty rough shape cosmetically.  Lots of dirt, cable burns,
+missing cassette stickers for play/pause/stop/etc, and broken pieces in the
+ventilation at the back (right-click and open in a new tab for a
+larger version):
+
+<img alt="Initial Condition Top" src="photos/initial-condition-top.jpg" width="860"/>
+
+The bottom was in relatively good condition with some cable burns
+The nameplate sticker was missing but the serial number and QA stickers
+were still present.  Serial number 281001.
+
+<img alt="Initial Condition Bottom" src="photos/initial-condition-bottom.jpg" width="860"/>
+
+Here are some closeups of the outside:
+
+<img alt="Initial Condition Cassette Closeup" src="photos/initial-condition-cassette-closeup.jpg" width="860"/>
+
+<img alt="Initial Condition Keyboard Closeup" src="photos/initial-condition-keyboard-closeup.jpg" width="860"/>
+
+<img alt="Initial Condition Case 1 Closeup" src="photos/initial-condition-case1-closeup.jpg" width="860"/>
+
+<img alt="Initial Condition Case 1 Closeup" src="photos/initial-condition-case2-closeup.jpg" width="860"/>
+
+<img alt="Initial Condition Case 1 Closeup" src="photos/initial-condition-case3-closeup.jpg" width="860"/>
+
+<img alt="Initial Condition Case 1 Closeup" src="photos/initial-condition-case4-closeup.jpg" width="860"/>
+
+Inside was a lot of dirt and rust!
+
+<img alt="Initial Condition Internals" src="photos/initial-condition-internals.jpg" width="860"/>
+
+<img alt="Initial Condition Keyboard Inside" src="photos/initial-condition-keyboard-inside.jpg" width="860"/>
+
+<img alt="Initial Condition PCBs" src="photos/initial-condition-pcbs.jpg" width="860"/>
+
+The cassette mechanism was completely rusted out and the motor was seized up.
+Not sure what I can do about this at the moment.
+
+<img alt="Initial Condition Cassette Inside" src="photos/initial-condition-cassette-inside.jpg" width="860"/>
+
+### Cleaning
+
+I pulled everything apart and cleaned the case and keyboard as best
+as possible.  Something needs to be done about the cable burns and the
+broken pieces later.
 
 ### Chip testing
 
-I pulled all of the chips that were in sockets and ran them through my
+Next, I pulled all of the chips that were in sockets and ran them through my
 [BackBit Chip Tester Pro V2](https://store.backbit.io/product/chip-tester/).
 
 Main board:
@@ -35,8 +83,9 @@ Main board:
 * Z33 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
 * Z34 - HM4716AP-4N 16Kx1 Dynamic RAM - Not testable.
 
-I wasn't able to test the Dynamic RAM chips because I need an adapter to
-provide the -5V and +12V supply rails, which I do not presently have.
+I wasn't able to test the DRAM chips because I need an adapter to provide the
+-5V and +12V supply rails, which I do not presently have.  But since BASIC
+ran fine later (see below), I'm guessing the DRAM's are ok.
 
 Video board:
 
@@ -44,26 +93,101 @@ Video board:
 * Z18 - MM2114-N 1Kx4 Static RAM - Good.
 * Z25 - 52116 Character Generator ROM - Good when tested with chip type "2532".
 
-The dumped ROM images are in the `ROMs` directory.
+The dumped ROM images are in the `ROMs` directory of this repository.
 
-### Conclusion
+In the process of inspecting the PCB's and testing the chips, I found a
+dead bug hiding under one of the capacitors.  Which I removed of course.
+Don't want the bug causing issues for me later like the
+[world's first computer bug](https://www.computerhistory.org/tdih/september/9/).
+
+<img alt="Bug" src="photos/bug.jpg" width="860"/>
+
+## Recapping the power supply
+
+This was the initial state of the power supply:
+
+<img alt="Initial Condition Power Supply" src="photos/initial-condition-power-supply.jpg" width="860"/>
+
+Other than the dirt, the only glaring issue was the three big electrolytic
+capacitors.  The date codes on the chips on the motherboard are from 1981,
+so these capacitors are around 45 years old.  I didn't even bother to
+test them - I just replaced them.
+
+<img alt="Recapped Power Supply" src="photos/recapped-power-supply.jpg" width="860"/>
+
+The three original capacitors were:
+
+* 22000uF, 16V - replaced with two 10000uF, 16V capacitors in parallel.
+* 2200uF, 25V
+* 1000uF, 25V
+
+The voltage outputs seemed fine if a little high.  Probably due to no load.
+It was time to power on the main PCB's.
+
+## Power on smoke test
+
+I reconnected everything except the cassette deck, crossed my fingers,
+and turned it on.  The LED's on either side of the keyboard turned on.
+That's a good sign.
+
+The 5V rail on the CPU board was 5.05V.  On the video board it was 4.99V.
+12V rail was 12.15V.  -5V rail was -5.06V.  Perfect.
+
+The 10.64MHz crystal was oscillating at 10.64MHz according to my
+oscilloscope.  Also perfect.
+
+The ROM chips were running a little hot.  Not sure if that is a problem
+or not yet.
+
+I could see a composite video signal of some sort on the monitor output
+port with my oscilloscope.  But my RetroTink had difficulty locking
+onto the signal to display an image.  Then I saw a "Ready?" prompt!  Yay!
+
+<img alt="First Ready Prompt" src="photos/first-ready-prompt.jpg" width="560"/>
+
+The video cuts in and out which is very annoying, but I was able to test
+the keyboard.  Some of the keys don't work or are intermittent and bouncy.
+I did manage to type a simple `10 PRINT "HELLO WORLD"` program once,
+but didn't get a photo.  Some keys like T and N only work now and then.
+
+### What's working so far?
+
+* Power supply.
+* Z-80 CPU (after I replaced it as described above).
+* BASIC ROM's.
+* 16K of dynamic RAM on the CPU board.
+* 1K of static RAM on the video board.
+* Video circuitry for HSYNC/VSYNC and video memory address generation.
+* Character generator ROM.
+* Video output stage that generates the composite video signal.
+* Most keys on the keyboard work, but some keys are flaky.
+
+### In-depth testing and fault finding
+
+Next steps:
+
+* Deal with the keys on the keyboard that are intermittent or bouncy.
+* The video signal is not stable; it cuts in and out.
+* ROM's run a little hot.
+* Deal with the corrosion on the expansion port connector and keyboard.
+* Deal with the cassette deck - it may be a lost cause.
+
+TBD
+
+### Summary of changes made
 
 Here is a summary of the changes that I made:
 
 * Cleaned the case, keyboard, PCB's, etc.
 * Replaced the filter capacitors in the power supply.
 * Replaced the Z-80 CPU with a new one, as the original was broken.
-* TBD
+* Desoldered the RF video cable from the RF modulator.  Analog television
+  sets are very rare these days and composite video works fine.
 
 Costs (in AUD):
 
 * $500 for the System 80 off eBay.
 * $27 to replace the filter capacitors in the power supply.
-* TBD
-
-And here it is in all of its restored glory:
-
-TBD
 
 ## Schematics
 
@@ -97,10 +221,6 @@ dynamic RAM.  This removes a lot of complexity from the memory interface.
 * Replace the character generator ROM with a modern EEPROM and include the
 graphics characters in the EEPROM.  This removes the need for a separate
 circuit for rendering the graphics characters.
-
-## Resources
-
-* TBD
 
 ## License
 
