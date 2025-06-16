@@ -150,6 +150,12 @@ the keyboard.  Some of the keys don't work or are intermittent and bouncy.
 I did manage to type a simple `10 PRINT "HELLO WORLD"` program once,
 but didn't get a photo.  Some keys like T and N only work now and then.
 
+Update: Five months later my brother found a composite-to-RGB converter
+for cheap at an end of financial year sale for a local electronics retailer.
+The composite-to-RGB converter didn't work with other computers like my
+Dick Smith Cat, but it worked perfectly with the System 80!  The video
+problem was with the RetroTink all along, not with the System 80.
+
 ### What's working so far?
 
 * Power supply.
@@ -159,7 +165,7 @@ but didn't get a photo.  Some keys like T and N only work now and then.
 * 1K of static RAM on the video board.
 * Video circuitry for HSYNC/VSYNC and video memory address generation.
 * Character generator ROM.
-* Video output stage that generates the composite video signal.
+* Composite video output.
 * Most keys on the keyboard work, but some keys are flaky.
 
 ### In-depth testing and fault finding
@@ -167,7 +173,6 @@ but didn't get a photo.  Some keys like T and N only work now and then.
 Next steps:
 
 * Deal with the keys on the keyboard that are intermittent or bouncy.
-* The video signal is not stable; it cuts in and out.
 * ROM's run a little hot.
 * Deal with the corrosion on the expansion port connector and keyboard.
 * Deal with the cassette deck - it may be a lost cause.
