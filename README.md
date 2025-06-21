@@ -150,12 +150,6 @@ the keyboard.  Some of the keys don't work or are intermittent and bouncy.
 I did manage to type a simple `10 PRINT "HELLO WORLD"` program once,
 but didn't get a photo.  Some keys like T and N only work now and then.
 
-Update: Five months later my brother found a composite-to-RGB converter
-for cheap at an end of financial year sale for a local electronics retailer.
-The composite-to-RGB converter didn't work with other computers like my
-Dick Smith Cat, but it worked perfectly with the System 80!  The video
-problem was with the RetroTink all along, not with the System 80.
-
 ### What's working so far?
 
 * Power supply.
@@ -172,12 +166,54 @@ problem was with the RetroTink all along, not with the System 80.
 
 Next steps:
 
+* The video signal is not stable; it cuts in and out.
 * Deal with the keys on the keyboard that are intermittent or bouncy.
-* ROM's run a little hot.
+* ROM's run a little hot.  Probably OK.
 * Deal with the corrosion on the expansion port connector and keyboard.
 * Deal with the cassette deck - it may be a lost cause.
 
-TBD
+### Flaky video signal
+
+My brother found a composite-to-RGB converter for cheap at an end of
+financial year sale for a local electronics retailer.  The composite-to-RGB
+converter didn't work with other computers like my Dick Smith Cat,
+but it worked perfectly with the System 80!
+
+It looks like the video problem was with the RetroTink all along,
+not with the System 80.
+
+The video is a little shaky, but I can live with it for now.
+
+### Non-working keys on the keyboard
+
+I found the problem with the keyboard.  With all of the handling of the PCB,
+metal fatigue in the wires built up and snapped two of the wires on the
+keyboard ribbon cable (right-click and open in a new tab for a larger version):
+
+<img alt="Keyboard Ribbon Cable" src="photos/keyboard-ribbon-cable.jpg" width="860"/>
+
+This type of soldered ribbon cable is a real pain in the neck.
+Even minor board handling will tear them off if you aren't careful.
+There were similar cables on
+[a VZ200 and a VZ300 that I restored previously](https://github.com/rweather/vz200-restoration).
+
+Those two wires correspond to the columns containing the intermittent
+keys like N and T.  No wonder I was having problems typing "PRINT" in BASIC.
+I was able to type in a "HELLO WORLD" BASIC program just one time.
+I guess the cable was angled to make the wires touch briefly that one time.
+
+I replaced the cable with something easier to repair in the future if a
+wire comes loose:
+
+<img alt="Keyboard Ribbon Cable Replacement" src="photos/keyboard-cable-replacement.jpg" width="860"/>
+
+I then tested all of the keys.  Some of them were very flaky.  Testing
+them with a multimeter showed some at 20 Mohms when pressed.  Probably
+corrosion in the contacts.  I pounded the keys a few dozen times and
+they came good!
+
+Some keys like N and I are still a little bouncy, but as long as I don't
+type too fast they are ok.  Unfortunately, my natural typing speed is fast!
 
 ### Summary of changes made
 
@@ -188,6 +224,7 @@ Here is a summary of the changes that I made:
 * Replaced the Z-80 CPU with a new one, as the original was broken.
 * Desoldered the RF video cable from the RF modulator.  Analog television
   sets are very rare these days and composite video works fine.
+* Modified the keyboard ribbon cable and connectors to be easily repairable.
 
 Costs (in AUD):
 
