@@ -4080,7 +4080,6 @@
 	)
 	(label "RD4"
 		(at 257.81 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4091,7 +4090,6 @@
 	)
 	(label "A2"
 		(at 50.8 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4102,7 +4100,6 @@
 	)
 	(label "A5"
 		(at 50.8 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4113,7 +4110,6 @@
 	)
 	(label "A9"
 		(at 167.64 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4124,7 +4120,6 @@
 	)
 	(label "A1"
 		(at 167.64 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4135,7 +4130,6 @@
 	)
 	(label "RD6"
 		(at 82.55 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4146,7 +4140,6 @@
 	)
 	(label "A5"
 		(at 167.64 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4157,7 +4150,6 @@
 	)
 	(label "A8"
 		(at 50.8 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4168,7 +4160,6 @@
 	)
 	(label "A10"
 		(at 167.64 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4179,7 +4170,6 @@
 	)
 	(label "A0"
 		(at 167.64 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4190,7 +4180,6 @@
 	)
 	(label "RD0"
 		(at 199.39 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4201,7 +4190,6 @@
 	)
 	(label "RD5"
 		(at 257.81 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4212,7 +4200,6 @@
 	)
 	(label "RD4"
 		(at 199.39 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4223,7 +4210,6 @@
 	)
 	(label "A3"
 		(at 226.06 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4234,7 +4220,6 @@
 	)
 	(label "A5"
 		(at 226.06 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4245,7 +4230,6 @@
 	)
 	(label "RD3"
 		(at 82.55 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4256,7 +4240,6 @@
 	)
 	(label "A1"
 		(at 226.06 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4267,7 +4250,6 @@
 	)
 	(label "RD3"
 		(at 140.97 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4278,7 +4260,6 @@
 	)
 	(label "A0"
 		(at 226.06 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4289,7 +4270,6 @@
 	)
 	(label "RD1"
 		(at 82.55 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4300,7 +4280,6 @@
 	)
 	(label "A3"
 		(at 167.64 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4311,7 +4290,6 @@
 	)
 	(label "A4"
 		(at 226.06 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4322,7 +4300,6 @@
 	)
 	(label "A2"
 		(at 167.64 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4333,7 +4310,6 @@
 	)
 	(label "A6"
 		(at 167.64 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4344,7 +4320,6 @@
 	)
 	(label "RD7"
 		(at 140.97 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4355,7 +4330,6 @@
 	)
 	(label "A9"
 		(at 50.8 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4366,7 +4340,6 @@
 	)
 	(label "RD6"
 		(at 257.81 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4377,7 +4350,6 @@
 	)
 	(label "A11"
 		(at 167.64 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4388,7 +4360,6 @@
 	)
 	(label "RD5"
 		(at 140.97 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4399,7 +4370,6 @@
 	)
 	(label "A4"
 		(at 109.22 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4410,7 +4380,6 @@
 	)
 	(label "RD1"
 		(at 257.81 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4421,7 +4390,6 @@
 	)
 	(label "RD2"
 		(at 199.39 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4432,7 +4400,6 @@
 	)
 	(label "A8"
 		(at 109.22 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4443,7 +4410,6 @@
 	)
 	(label "A10"
 		(at 109.22 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4454,7 +4420,6 @@
 	)
 	(label "A2"
 		(at 109.22 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4465,7 +4430,6 @@
 	)
 	(label "A7"
 		(at 226.06 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4476,7 +4440,6 @@
 	)
 	(label "RD0"
 		(at 82.55 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4487,7 +4450,6 @@
 	)
 	(label "RD2"
 		(at 82.55 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4498,7 +4460,6 @@
 	)
 	(label "A9"
 		(at 226.06 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4509,7 +4470,6 @@
 	)
 	(label "A1"
 		(at 109.22 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4520,7 +4480,6 @@
 	)
 	(label "RD6"
 		(at 140.97 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4531,7 +4490,6 @@
 	)
 	(label "A7"
 		(at 167.64 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4542,7 +4500,6 @@
 	)
 	(label "A1"
 		(at 50.8 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4553,7 +4510,6 @@
 	)
 	(label "RD3"
 		(at 257.81 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4564,7 +4520,6 @@
 	)
 	(label "A10"
 		(at 50.8 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4575,7 +4530,6 @@
 	)
 	(label "A8"
 		(at 167.64 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4586,7 +4540,6 @@
 	)
 	(label "A6"
 		(at 50.8 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4597,7 +4550,6 @@
 	)
 	(label "A3"
 		(at 50.8 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4608,7 +4560,6 @@
 	)
 	(label "A10"
 		(at 226.06 102.87 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4619,7 +4570,6 @@
 	)
 	(label "A0"
 		(at 109.22 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4630,7 +4580,6 @@
 	)
 	(label "RD7"
 		(at 82.55 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4641,7 +4590,6 @@
 	)
 	(label "A6"
 		(at 109.22 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4652,7 +4600,6 @@
 	)
 	(label "A0"
 		(at 50.8 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4663,7 +4610,6 @@
 	)
 	(label "RD1"
 		(at 199.39 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4674,7 +4620,6 @@
 	)
 	(label "A7"
 		(at 109.22 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4685,7 +4630,6 @@
 	)
 	(label "RD4"
 		(at 82.55 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4696,7 +4640,6 @@
 	)
 	(label "RD5"
 		(at 199.39 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4707,7 +4650,6 @@
 	)
 	(label "RD3"
 		(at 199.39 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4718,7 +4660,6 @@
 	)
 	(label "RD6"
 		(at 199.39 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4729,7 +4670,6 @@
 	)
 	(label "A4"
 		(at 50.8 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4740,7 +4680,6 @@
 	)
 	(label "A2"
 		(at 226.06 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4751,7 +4690,6 @@
 	)
 	(label "A3"
 		(at 109.22 85.09 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4762,7 +4700,6 @@
 	)
 	(label "A4"
 		(at 167.64 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4773,7 +4710,6 @@
 	)
 	(label "A5"
 		(at 109.22 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4784,7 +4720,6 @@
 	)
 	(label "RD5"
 		(at 82.55 90.17 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4795,7 +4730,6 @@
 	)
 	(label "RD1"
 		(at 140.97 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4806,7 +4740,6 @@
 	)
 	(label "RD4"
 		(at 140.97 87.63 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4817,7 +4750,6 @@
 	)
 	(label "RD0"
 		(at 257.81 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4828,7 +4760,6 @@
 	)
 	(label "RD7"
 		(at 199.39 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4839,7 +4770,6 @@
 	)
 	(label "RD0"
 		(at 140.97 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4850,7 +4780,6 @@
 	)
 	(label "RD2"
 		(at 140.97 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4861,7 +4790,6 @@
 	)
 	(label "A11"
 		(at 226.06 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4872,7 +4800,6 @@
 	)
 	(label "RD2"
 		(at 257.81 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4883,7 +4810,6 @@
 	)
 	(label "A8"
 		(at 226.06 97.79 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4894,7 +4820,6 @@
 	)
 	(label "A11"
 		(at 109.22 105.41 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4905,7 +4830,6 @@
 	)
 	(label "A9"
 		(at 109.22 100.33 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4916,7 +4840,6 @@
 	)
 	(label "A7"
 		(at 50.8 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4927,7 +4850,6 @@
 	)
 	(label "A6"
 		(at 226.06 92.71 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4938,7 +4860,6 @@
 	)
 	(label "RD7"
 		(at 257.81 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

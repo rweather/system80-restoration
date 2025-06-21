@@ -4735,6 +4735,317 @@
 		)
 		(uuid "ff8c631f-7656-4b23-a259-a4ba8fd4e526")
 	)
+	(rectangle
+		(start 105.41 175.26)
+		(end 106.045 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0a82b89b-3a71-433f-97f9-5f972dd1d662)
+	)
+	(rectangle
+		(start 101.6 175.26)
+		(end 102.235 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0e95e0a8-7fa1-4189-8310-300951799532)
+	)
+	(rectangle
+		(start 103.505 175.26)
+		(end 104.14 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 0f878721-2390-4a33-9246-92c9d4b51363)
+	)
+	(rectangle
+		(start 97.79 175.26)
+		(end 98.425 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 12fdaa15-c048-42ae-97dd-6df74e7385c1)
+	)
+	(rectangle
+		(start 82.55 172.085)
+		(end 83.185 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 27da2cdd-00f3-4707-bea8-6e96d8f7c3f5)
+	)
+	(rectangle
+		(start 82.55 175.26)
+		(end 83.185 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 2c9ac751-3e6f-492e-9935-4595d3531339)
+	)
+	(rectangle
+		(start 80.645 172.085)
+		(end 81.28 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 38658148-a19d-438a-ac0b-be093f2fd0b9)
+	)
+	(rectangle
+		(start 101.6 172.085)
+		(end 102.235 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4352f140-5992-4c08-adf9-4f878e42fae9)
+	)
+	(rectangle
+		(start 80.645 175.26)
+		(end 81.28 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 49d5901f-35ab-4530-b77e-7993d35e463d)
+	)
+	(rectangle
+		(start 99.695 175.26)
+		(end 100.33 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4ab38ffb-ee3b-41dc-817f-7a920970052f)
+	)
+	(rectangle
+		(start 84.455 172.085)
+		(end 85.09 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 4ed7c6f4-79d7-4f71-a85a-3bbb2175b9a5)
+	)
+	(rectangle
+		(start 105.41 172.085)
+		(end 106.045 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5cfcfe34-cb54-48e9-8512-dd0dc848c23b)
+	)
+	(rectangle
+		(start 90.17 172.085)
+		(end 90.805 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 7a4ebc80-f882-4e50-a0b1-b78e82684170)
+	)
+	(rectangle
+		(start 84.455 175.26)
+		(end 85.09 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 80077263-bebf-4d98-a47a-35f31124a6c2)
+	)
+	(rectangle
+		(start 88.265 175.26)
+		(end 88.9 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 85fa86a7-8d00-4c6c-9a44-ade3d8f281c1)
+	)
+	(rectangle
+		(start 97.79 172.085)
+		(end 98.425 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8f4e25ce-7378-44e0-8b78-c54164f07351)
+	)
+	(rectangle
+		(start 99.695 172.085)
+		(end 100.33 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a85343ec-940b-4a6c-8d6b-7fdabed25409)
+	)
+	(rectangle
+		(start 103.505 172.085)
+		(end 104.14 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a860e03d-b4c6-4edf-89fd-1c4bcb74db33)
+	)
+	(rectangle
+		(start 90.17 175.26)
+		(end 90.805 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid aa29d3ff-9aab-4c2b-929b-f28aa8f47f38)
+	)
+	(rectangle
+		(start 86.36 175.26)
+		(end 86.995 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid ab8bfb8b-275e-4177-aeaf-195767111cf7)
+	)
+	(rectangle
+		(start 78.74 174.625)
+		(end 109.855 175.26)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b0b85680-045b-4d3a-a858-547ec376c7bd)
+	)
+	(rectangle
+		(start 86.36 172.085)
+		(end 86.995 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid b8a14dd3-1938-4e52-88c8-fe5862655447)
+	)
+	(rectangle
+		(start 88.265 172.085)
+		(end 88.9 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid da6e0f21-5a85-45a6-80b2-d048b4ad1594)
+	)
+	(rectangle
+		(start 107.315 175.26)
+		(end 107.95 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid dcb03169-4e41-4b21-91f5-35c4854563f2)
+	)
+	(rectangle
+		(start 107.315 172.085)
+		(end 107.95 174.625)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f88c41ac-f23c-4f5a-bf6c-a8fc8ae62b81)
+	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 84.074 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "079eb821-9a7b-4b90-a629-1835ea0e115e")
+	)
 	(text "Interrupt Request"
 		(exclude_from_sim no)
 		(at 65.786 134.874 0)
@@ -4745,6 +5056,28 @@
 			(justify right)
 		)
 		(uuid "0eab4b63-d719-42da-9216-d24cc29afc19")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 92.075 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "18f7c526-5aef-4afb-8734-20dc22739b3f")
+	)
+	(text "50"
+		(exclude_from_sim no)
+		(at 106.426 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "22adc62c-e274-4a91-bcfe-18f7889dd3c1")
 	)
 	(text "Non-Maskable Interrupt"
 		(exclude_from_sim no)
@@ -4767,6 +5100,28 @@
 			(justify right)
 		)
 		(uuid "4a08194d-2be0-4d05-9708-bb7a365db594")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 92.202 179.578 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d02f227-3ee5-49d1-8a43-3ce467b63522")
+	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 80.264 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4dd39058-6c87-465c-aadd-5a02217f1009")
 	)
 	(text "Read Request"
 		(exclude_from_sim no)
@@ -4812,6 +5167,17 @@
 		)
 		(uuid "60eedb85-e106-4853-a1f5-f83ac18b9ff6")
 	)
+	(text "Looking at the J1 connector on the back of the\ncase, looking towards the front of the case."
+		(exclude_from_sim no)
+		(at 71.12 186.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "650cd159-a8d8-45a5-a59f-a4424af6f490")
+	)
 	(text "Dynamic Memory Refresh"
 		(exclude_from_sim no)
 		(at 66.04 155.194 0)
@@ -4822,6 +5188,39 @@
 			(justify right)
 		)
 		(uuid "7420480d-4fc9-4935-8b7a-8579ea6f8e48")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 80.264 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "79476e9d-f8f5-4606-921c-f3f0f2c97fbb")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 91.948 171.196 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d4dac58-40ed-4c18-a891-151342685893")
+	)
+	(text "49"
+		(exclude_from_sim no)
+		(at 106.426 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "94e05474-0a52-4157-aa6d-ad78e0abaac5")
 	)
 	(text "Write Request"
 		(exclude_from_sim no)
@@ -4867,6 +5266,28 @@
 		)
 		(uuid "d697486b-35d3-4ffe-ba55-0ad1641489b5")
 	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 82.296 171.704 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7734db2-d97e-446f-976d-e27b0effdbc0")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 82.296 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d98d2bf1-e7e8-46b0-8302-5437c4a78e64")
+	)
 	(text "Control/Status Bus Disable"
 		(exclude_from_sim no)
 		(at 118.872 147.574 0)
@@ -4899,6 +5320,17 @@
 			(justify right)
 		)
 		(uuid "e4bb325e-1160-4549-ba71-0c1e022971b3")
+	)
+	(text "......."
+		(exclude_from_sim no)
+		(at 92.075 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e6a83f02-2c94-4931-92ee-d43f45eca8ed")
 	)
 	(text "Processor Halted"
 		(exclude_from_sim no)
@@ -4933,9 +5365,19 @@
 		)
 		(uuid "ef1cf86f-e0d9-4c42-b83b-012eecc96da4")
 	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 84.328 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f0a90a10-e393-4b08-92aa-6a22e19760d8")
+	)
 	(label "A3"
 		(at 161.29 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4946,7 +5388,6 @@
 	)
 	(label "A5"
 		(at 63.5 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4957,7 +5398,6 @@
 	)
 	(label "D4"
 		(at 177.8 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4968,7 +5408,6 @@
 	)
 	(label "D0"
 		(at 81.28 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4979,7 +5418,6 @@
 	)
 	(label "D5"
 		(at 177.8 119.38 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4990,7 +5428,6 @@
 	)
 	(label "A12"
 		(at 63.5 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5001,7 +5438,6 @@
 	)
 	(label "A9"
 		(at 161.29 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5012,7 +5448,6 @@
 	)
 	(label "A2"
 		(at 161.29 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5023,7 +5458,6 @@
 	)
 	(label "A6"
 		(at 121.92 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5034,7 +5468,6 @@
 	)
 	(label "A11"
 		(at 121.92 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5045,7 +5478,6 @@
 	)
 	(label "D7"
 		(at 81.28 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5056,7 +5488,6 @@
 	)
 	(label "D1"
 		(at 203.2 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5067,7 +5498,6 @@
 	)
 	(label "A14"
 		(at 63.5 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5078,7 +5508,6 @@
 	)
 	(label "A10"
 		(at 121.92 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5089,7 +5518,6 @@
 	)
 	(label "D5"
 		(at 81.28 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5100,7 +5528,6 @@
 	)
 	(label "A9"
 		(at 121.92 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5111,7 +5538,6 @@
 	)
 	(label "A3"
 		(at 121.92 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5122,7 +5548,6 @@
 	)
 	(label "D0"
 		(at 177.8 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5133,7 +5558,6 @@
 	)
 	(label "D1"
 		(at 104.14 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5144,7 +5568,6 @@
 	)
 	(label "D2"
 		(at 104.14 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5155,7 +5578,6 @@
 	)
 	(label "D3"
 		(at 104.14 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5166,7 +5588,6 @@
 	)
 	(label "A2"
 		(at 63.5 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5177,7 +5598,6 @@
 	)
 	(label "A0"
 		(at 121.92 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5188,7 +5608,6 @@
 	)
 	(label "A15"
 		(at 63.5 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5199,7 +5618,6 @@
 	)
 	(label "A4"
 		(at 161.29 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5210,7 +5628,6 @@
 	)
 	(label "D6"
 		(at 104.14 116.84 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5221,7 +5638,6 @@
 	)
 	(label "A8"
 		(at 219.71 109.22 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5232,7 +5648,6 @@
 	)
 	(label "A7"
 		(at 63.5 99.06 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5243,7 +5658,6 @@
 	)
 	(label "A4"
 		(at 121.92 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5254,7 +5668,6 @@
 	)
 	(label "A13"
 		(at 63.5 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5265,7 +5678,6 @@
 	)
 	(label "A10"
 		(at 161.29 106.68 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5276,7 +5688,6 @@
 	)
 	(label "D3"
 		(at 203.2 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5287,7 +5698,6 @@
 	)
 	(label "A7"
 		(at 219.71 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5298,7 +5708,6 @@
 	)
 	(label "A1"
 		(at 63.5 104.14 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5309,7 +5718,6 @@
 	)
 	(label "D7"
 		(at 177.8 114.3 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5320,7 +5728,6 @@
 	)
 	(label "A1"
 		(at 219.71 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5331,7 +5738,6 @@
 	)
 	(label "A8"
 		(at 121.92 121.92 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5342,7 +5748,6 @@
 	)
 	(label "A5"
 		(at 219.71 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5353,7 +5758,6 @@
 	)
 	(label "D4"
 		(at 104.14 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5364,7 +5768,6 @@
 	)
 	(label "A6"
 		(at 161.29 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5375,7 +5778,6 @@
 	)
 	(label "A0"
 		(at 219.71 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5386,7 +5788,6 @@
 	)
 	(label "D6"
 		(at 203.2 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5397,7 +5798,6 @@
 	)
 	(label "D2"
 		(at 203.2 120.65 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

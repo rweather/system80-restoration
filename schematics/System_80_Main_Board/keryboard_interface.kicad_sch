@@ -10048,7 +10048,6 @@
 	)
 	(label "D5"
 		(at 218.44 80.01 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10059,7 +10058,6 @@
 	)
 	(label "DK1"
 		(at 172.72 82.55 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10070,7 +10068,6 @@
 	)
 	(label "A1"
 		(at 54.61 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10081,7 +10078,6 @@
 	)
 	(label "AK2"
 		(at 82.55 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10092,7 +10088,6 @@
 	)
 	(label "A5"
 		(at 54.61 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10103,7 +10098,6 @@
 	)
 	(label "AK7"
 		(at 82.55 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10114,7 +10108,6 @@
 	)
 	(label "DK6"
 		(at 172.72 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10125,7 +10118,6 @@
 	)
 	(label "A2"
 		(at 54.61 95.25 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10136,7 +10128,6 @@
 	)
 	(label "AK5"
 		(at 82.55 140.97 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10147,7 +10138,6 @@
 	)
 	(label "D6"
 		(at 218.44 127 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10158,7 +10148,6 @@
 	)
 	(label "AK6"
 		(at 82.55 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10169,7 +10158,6 @@
 	)
 	(label "AK0"
 		(at 82.55 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10180,7 +10168,6 @@
 	)
 	(label "A3"
 		(at 54.61 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10191,7 +10178,6 @@
 	)
 	(label "DK5"
 		(at 172.72 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10202,7 +10188,6 @@
 	)
 	(label "D4"
 		(at 218.44 129.54 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10213,7 +10198,6 @@
 	)
 	(label "D3"
 		(at 218.44 124.46 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10224,7 +10208,6 @@
 	)
 	(label "DK4"
 		(at 172.72 129.54 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10235,7 +10218,6 @@
 	)
 	(label "DK7"
 		(at 172.72 132.08 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10246,7 +10228,6 @@
 	)
 	(label "A7"
 		(at 54.61 171.45 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10257,7 +10238,6 @@
 	)
 	(label "A4"
 		(at 54.61 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10268,7 +10248,6 @@
 	)
 	(label "AK1"
 		(at 82.55 80.01 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10279,7 +10258,6 @@
 	)
 	(label "A0"
 		(at 54.61 64.77 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10290,7 +10268,6 @@
 	)
 	(label "A6"
 		(at 54.61 156.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10301,7 +10278,6 @@
 	)
 	(label "DK0"
 		(at 172.72 74.93 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10312,7 +10288,6 @@
 	)
 	(label "DK3"
 		(at 172.72 124.46 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10323,7 +10298,6 @@
 	)
 	(label "AK3"
 		(at 82.55 110.49 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10334,7 +10308,6 @@
 	)
 	(label "D0"
 		(at 218.44 74.93 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10345,7 +10318,6 @@
 	)
 	(label "AK4"
 		(at 82.55 125.73 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10356,7 +10328,6 @@
 	)
 	(label "D2"
 		(at 218.44 77.47 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10367,7 +10338,6 @@
 	)
 	(label "DK2"
 		(at 172.72 77.47 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10378,7 +10348,6 @@
 	)
 	(label "D7"
 		(at 218.44 132.08 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10389,7 +10358,6 @@
 	)
 	(label "D1"
 		(at 218.44 82.55 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
