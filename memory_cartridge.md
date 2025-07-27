@@ -24,3 +24,7 @@ After restarting the System 80, we now have 48340 bytes of memory free
 (apologies for my dusty and blurry screen):
 
 <a href="photos/memory-cartridge-free-memory.jpg"><img alt="Memory Cartridge Free Memory" src="photos/memory_cartridge_free_memory.jpg" width="860"/></a>
+
+Note: Due to the size and shape of the modern edge connector, it is necessary
+to remove the top case from the System 80 to be able to insert the
+memory cartridge.  I didn't realise this when I designed it.
