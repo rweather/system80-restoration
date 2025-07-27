@@ -241,6 +241,12 @@ and generated PDF versions.  The original schematics can be hard to read.
 * [System 80 Power Supply](schematics/System_80_Power_Supply/PDF/System_80_Power_Supply.pdf)
 * [System 80 Keyboard](schematics/System_80_Keyboard/PDF/System_80_Keyboard.pdf)
 
+## Expansion options
+
+I designed a [Memory Cartridge](memory_cartridge.md) for the System 80
+that plugs into the expanion bus.  It provides either 32K of extra RAM,
+or 16K of RAM plus 16K of EEPROM.
+
 ## Adapting the schematic
 
 In theory the KiCad schematics could be modernised and then laid out on
